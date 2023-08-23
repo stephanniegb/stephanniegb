@@ -9,7 +9,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer. I'm passionate
 - 😊 Pronouns: she/her
 - 😊 I’m seeking help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can contact me by emailing [stephanieegbuonu@gmail.com.](mailtostephanieegbuonu@gmail.com).
+- 📫 You can contact me by emailing [stephanieegbuonu@gmail.com.](mailtostephanieegbuonu@gmail.com)
 
 ---
 
