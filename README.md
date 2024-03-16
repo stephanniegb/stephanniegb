@@ -19,7 +19,8 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-[![Twitter Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Stephanniegb)]
+
+ [![Twitter Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
 ## Career Interests
 ## Recent work
 ## Ways to Contact Me
