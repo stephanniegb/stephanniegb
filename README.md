@@ -20,8 +20,8 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## Career Interests
-## Recent work
-## Ways to Contact Me
+## Career Interests 🚀.
+## Recent work 🛠.
+## Contact Me 💬.
 
 
