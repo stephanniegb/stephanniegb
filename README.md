@@ -7,12 +7,10 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanniegb&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanniegb&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" />
 
 
+## Most used tools
 
-**Here's a quick summary about me**:
+## Career Interests
 
-- 😊 Pronouns: she/her
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
-- 📫 You can contact me by emailing [stephanieegbuonu@gmail.com.](mailtostephanieegbuonu@gmail.com)
 
 ---
 ## S
