@@ -10,7 +10,7 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
 ## Most used tools
 
 ## Career Interests
-
-
+## Recents work
+## Ways to Contact Me
 ---
-## S
+
