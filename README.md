@@ -21,7 +21,7 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
 </div>
 
  [![React Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=react&logoColor=#ff0000&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
- [![React Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=react&logoColor=#61dafb&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
+ [![React Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=react&logoColor=#ff0000&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
 
 ## Career Interests
 ## Recent work
