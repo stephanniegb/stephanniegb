@@ -6,7 +6,10 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
 
 
 ## Most used tools
-<div style="display: flex; align-items: center; gap: 2rem;">
+<div style="display: flex; align-items: center;">
+ 
+[![LinkedIn Badge](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61dafb)]
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
