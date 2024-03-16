@@ -8,7 +8,6 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
 ## Most used tools
 <div style="display: flex; align-items: center;">
  
-[![LinkedIn Badge](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61dafb)]
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -18,7 +17,8 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+[LinkedIn Badge](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61dafb)
 </div>
 
 ## Career Interests 🚀.
