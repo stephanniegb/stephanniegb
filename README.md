@@ -20,7 +20,7 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- [![React Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=react&logoColor=white&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
+ [![React Badge](https://img.shields.io/badge/-@stephanniegb-1ca0f1?style=for-the-badge&logo=react&logoColor=#ff0000&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb)
 ## Career Interests
 ## Recent work
 ## Ways to Contact Me
