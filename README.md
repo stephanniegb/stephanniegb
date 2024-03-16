@@ -19,10 +19,8 @@ I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowled
 </div>
 
 ## Career Interests 🚀.
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanie-egbuonu-809aa120a)](https://www.linkedin.com/in/stephanie-egbuonu-809aa120a)
-[![X Badge](https://img.shields.io/badge/-@stephanniegb-ffffff?style=for-the-badge&logo=x&logoColor=black&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb) 
 ## Recent work 🛠.
 ## Contact Me 💬.
-
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanie-egbuonu-809aa120a)](https://www.linkedin.com/in/stephanie-egbuonu-809aa120a)
+[![X Badge](https://img.shields.io/badge/-@stephanniegb-ffffff?style=for-the-badge&logo=x&logoColor=black&link=https://twitter.com/Stephanniegb)](https://twitter.com/Stephanniegb) 
 
