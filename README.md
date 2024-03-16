@@ -4,8 +4,8 @@
 
 I'm  Stephanie Egbuonu a Software Engineer. I'm passionate about sharing knowledge, documentation, web engineering and others.
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanniegb&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> |
-| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanniegb&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> |
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanniegb&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanniegb&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> 
 
 
 **Here's a quick summary about me**:
