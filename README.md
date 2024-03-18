@@ -23,6 +23,7 @@ Building super cool web apps and contributing to open-source projects.
 ## Recent work 🛠
 
 - [starknet tokenbound](https://starknet-tokenbound.com/)
+- [Three js galaxy](https://three-js-galaxy-silk.vercel.app/)
 - [Scroll Transform](https://scroll-transform-recreate.vercel.app)
 - [Three js scene](https://nuxt-scene.vercel.app/)
 
