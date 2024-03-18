@@ -8,13 +8,13 @@ I'm Stephanie Egbuonu, a Software Engineer who loves making cool stuff online an
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&link=https://threejs.org/)](https://threejs.org/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/)
-![LinkedIn Badge](https://img.shields.io/badge/-Framer-007bff?style=for-the-badge&logo=framer&logoColor=white&link=https://www.framer.com/motion/)
-![LinkedIn Badge](https://img.shields.io/badge/-React.js-202329?style=for-the-badge&logo=react&logoColor=1ca0f1&link=https://react.dev/)
-![LinkedIn Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)
-![LinkedIn Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)
-![LinkedIn Badge](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/)
-![LinkedIn Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://www.w3schools.com/html/)
-![LinkedIn Badge](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032&link=https://git-scm.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Framer-007bff?style=for-the-badge&logo=framer&logoColor=white&link=https://www.framer.com/motion/)](https://www.framer.com/motion/)
+[![LinkedIn Badge](https://img.shields.io/badge/-React.js-202329?style=for-the-badge&logo=react&logoColor=1ca0f1&link=https://react.dev/)](https://react.dev/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black&link=https://www.javascript.com/)](https://www.javascript.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white&link=https://www.w3schools.com/css/)](https://www.w3schools.com/css/)
+[![LinkedIn Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://www.w3schools.com/html/)](https://www.w3schools.com/html/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=F05032&link=https://git-scm.com/)](https://git-scm.com/)
 
 ## Current Interests 🚀.
 
