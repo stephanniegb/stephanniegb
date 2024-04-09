@@ -20,6 +20,10 @@ I'm Stephanie Egbuonu, a Software Engineer who loves making cool stuff online an
 
 Building super cool web apps and contributing to open-source projects.
 
+  ### currently learning three.js and building cool projects while I learn, check out some:
+  
+   - [Ragging sea](https://29-raging-olasuoblr-stephanniegbs-projects.vercel.app/)
+
 ## Recent work 🛠
 
 - [starknet tokenbound](https://starknet-tokenbound.com/)
