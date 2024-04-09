@@ -22,7 +22,7 @@ Building super cool web apps and contributing to open-source projects.
 
   ### Currently learning three.js and building cool projects while I learn, check out some 🙃:
   
-   - [Ragging sea](https://29-raging-olasuoblr-stephanniegbs-projects.vercel.app/)
+   - [Raging sea](https://29-raging-olasuoblr-stephanniegbs-projects.vercel.app/)
 
 ## Recent work 🛠
 
