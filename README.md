@@ -24,6 +24,7 @@ Building super cool web apps and contributing to open-source projects.
   
    - [Raging sea](https://29-raging-sea-theta.vercel.app/)
    - [3d-coffee](https://three-js-coffee.vercel.app/)
+   - [holographic objects](https://three-js-hologram.vercel.app/)
 
 ## Recent work 🛠
 
