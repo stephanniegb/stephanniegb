@@ -23,6 +23,7 @@ Building super cool web apps and contributing to open-source projects.
   ### Currently learning three.js and building cool projects while I learn, check out some 🙃:
   
    - [Raging sea](https://29-raging-sea-theta.vercel.app/)
+   - [3d-coffee](https://three-js-coffee.vercel.app/)
 
 ## Recent work 🛠
 
