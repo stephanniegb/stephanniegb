@@ -22,9 +22,9 @@ Building super cool web apps and contributing to open-source projects.
 
   ### Currently learning three.js and building cool projects while I learn, check out some 🙃:
   
-   - [Raging sea](https://29-raging-sea-theta.vercel.app/)
+   - [Raging sea](https://replit.com/@Stephaniegb/three-js-raging-sea)
    - [3d-coffee](https://three-js-coffee.vercel.app/)
-   - [holographic objects](https://three-js-hologram.vercel.app/)
+   - [holographic objects](https://replit.com/@Stephaniegb/three-js-hologram)
    - [three js fireworks](https://replit.com/@Stephaniegb/three-js-fireworks)
 
 ## Recent work 🛠
