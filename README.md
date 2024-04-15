@@ -22,10 +22,11 @@ Building super cool web apps and contributing to open-source projects.
 
   ### Currently learning three.js and building cool projects while I learn, check out some 🙃:
   
-   - [Raging sea](https://replit.com/@Stephaniegb/three-js-raging-sea)
-   - [3d-coffee](https://three-js-coffee.vercel.app/)
-   - [holographic objects](https://replit.com/@Stephaniegb/three-js-hologram)
-   - [three js fireworks](https://replit.com/@Stephaniegb/three-js-fireworks)
+   - [Raging sea](https://codesandbox.io/p/devbox/three-js-raging-sea-6m975z?file=%2Fsrc%2Fscript.js)
+   - [3d-coffee](https://codesandbox.io/p/devbox/three-js-coffee-ztmnf7?file=%2Fsrc%2Fscript.js)
+   - [holographic objects](https://codesandbox.io/p/devbox/three-js-hologram-v48kw6?file=%2Fsrc%2Fscript.js)
+   - [three js fireworks](https://codesandbox.io/p/devbox/three-js-fireworks-dfc58p?file=%2Fsrc%2Fscript.js)
+   - [custom light](https://codesandbox.io/p/devbox/three-js-custom-light-f2mpyd?file=%2Fsrc%2Fscript.js)
 
 ## Recent work 🛠
 
