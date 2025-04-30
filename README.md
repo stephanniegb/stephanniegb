@@ -1,6 +1,7 @@
 # Hey there! 👋🏾
 
-I'm Stephanie Egbuonu, a Software Engineer who loves making cool stuff online and learning new things.
+I'm Stephanie — a curious frontend engineer who loves building awesome web experiences. I'm always learning and experimenting with new things, from Web3 to smooth animations.
+Lately, alongside my work, I’ve been diving into AI and machine learning — stay tuned to see where that journey takes me!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=stephanniegb&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanniegb&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="stephanie's GitHub stats" />
 
@@ -22,21 +23,17 @@ I'm Stephanie Egbuonu, a Software Engineer who loves making cool stuff online an
 
 ## Current Interests 🚀.
 
-Building super cool web apps and contributing to open-source projects.
+Crafting awesome web apps, exploring AI and machine learning, and contributing to open-source projects that make a difference.
 
-  ### Currently learning three.js and building cool projects while I learn, check out some 🙃:
-  
-   - [Raging sea](https://codesandbox.io/p/devbox/three-js-raging-sea-6m975z?file=%2Fsrc%2Fscript.js)
-   - [3d-coffee](https://codesandbox.io/p/devbox/three-js-coffee-ztmnf7?file=%2Fsrc%2Fscript.js)
-   - [holographic objects](https://codesandbox.io/p/devbox/three-js-hologram-v48kw6?file=%2Fsrc%2Fscript.js)
-   - [three js fireworks](https://codesandbox.io/p/devbox/three-js-fireworks-dfc58p?file=%2Fsrc%2Fscript.js)
+- [Wiki Bot](https://github.com/stephanniegb/tools/blob/master/wikibot.py)
+- [cheft Bot](https://github.com/stephanniegb/hello-claude/blob/master/ChefBot.py)
 
 ## Recent work 🛠
 
+- [Coloniz](https://coloniz.xyz/)
 - [starknet tokenbound](https://starknet-tokenbound.com/)
 - [Three js galaxy](https://three-js-galaxy-silk.vercel.app/)
 - [Scroll Transform](https://scroll-transform-recreate.vercel.app)
-- [Three js scene](https://nuxt-scene.vercel.app/)
 
 ## Contact Me 💬.
 
